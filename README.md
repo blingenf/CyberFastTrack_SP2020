@@ -54,7 +54,7 @@ These have been organized by problem type and difficulty:
 * [FH04](Challenges/FH04)
 * [FH05](Challenges/FH05)
 * [FH10](Challenges/FH10)
-* FE06 *(Unsolved)*
+* [FE06](Challenges/FE06)
 
 ## Network
 
